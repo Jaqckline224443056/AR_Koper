@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696771966168",
+    "firebase_url": "https://koperinvenar-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "koperinvenar",
+    "storage_bucket": "koperinvenar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696771966168:android:2b92011eb384c3f2d093ad",
+        "android_client_info": {
+          "package_name": "com.koperinvenar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696771966168-amnag91pu6bjk8nd940s21qtl5jc5vt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRi1Db-piQ4bTd6QFvc4pIDtoSaVaafnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696771966168-amnag91pu6bjk8nd940s21qtl5jc5vt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

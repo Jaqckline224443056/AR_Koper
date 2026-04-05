@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.4.1">
+        <ModelTarget name="model3d_koper" targetId="8bb45cde42f2459197d03111175cc5b9" version="14.0" toolVersion="v7.4.1" bbox="-0.644795 -0.0251948 -0.387229 0.448835 0.505248 0.954596" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="model3d_koper" assemblyId="65e38cd42546452f8629986b6230b3cd">
+        <Part name="model3d_koper" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

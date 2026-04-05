@@ -1,0 +1,28 @@
+# Unity folders
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# IDE
+.vs/
+.vscode/
+.vsconfig
+
+# File auto generate
+*.csproj
+*.unityproj
+*.sln
+*.apk
+*.log
+
+# Firebase large files
+Assets/Firebase/Plugins/x86_64/
+
+# Vuforia package
+Packages/*.tgz
+
+# StreamingAssets besar (optional)
+Assets/StreamingAssets/Vuforia/*.dat
